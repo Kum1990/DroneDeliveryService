@@ -1,0 +1,13 @@
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\bin\Debug\DDS.exe.config
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\bin\Debug\DDS.exe
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\bin\Debug\DDS.pdb
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\obj\Debug\DDS.csprojResolveAssemblyReference.cache
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\obj\Debug\DDS.Home.resources
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\obj\Debug\DDS.Login.resources
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\obj\Debug\DDS.Properties.Resources.resources
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\obj\Debug\DDS.Registration.resources
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\obj\Debug\DDS.csproj.GenerateResource.Cache
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\obj\Debug\DDS.exe
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\obj\Debug\DDS.pdb
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\bin\Debug\Database.mdf
+D:\Personal Projects\ACME\DroneDeliveryService2\DDS\DDS\bin\Debug\Database_log.ldf
